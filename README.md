@@ -1,3 +1,33 @@
+# EShop ecommerce frontend with React
+## Screenshots
+
+<p align="center">
+<img src="./screenshots/Screenshot 2026-03-16 124257.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="./screenshots/Screenshot 2026-03-16 124406.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="./screenshots/Screenshot 2026-03-16 124416.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="./screenshots/Screenshot 2026-03-16 124424.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="./screenshots/Screenshot 2026-03-16 124433.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="./screenshots/Screenshot 2026-03-16 124502.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="./screenshots/Screenshot 2026-03-16 124509.png" width="700"/>
+</p>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
